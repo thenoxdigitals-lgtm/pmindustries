@@ -1,0 +1,369 @@
+{
+  "routes": 25,
+  "viewports": [
+    1440,
+    390
+  ],
+  "internalLinks": 44,
+  "redirects": 23,
+  "issues": [],
+  "checks": [
+    {
+      "width": 1440,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/products",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/contact",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/request-quote",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/company",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/company/manufacturing",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/company/quality",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/company/team",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/company/jointer-training",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/technology/heat-shrink",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/resources",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/resources/ordering-information",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/resources/downloads",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/privacy",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/products/heat-shrinkable-termination-kit",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/products/heat-shrinkable-straight-joint",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/products/polymer-insulator",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/products/anti-tracking-cable-breakout",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/products/lv-cable-breakout",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/products/busbar-insulation-tubing",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/products/creepage-extension-shed",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/products/right-angle-boot",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/products/straight-boot",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/products/heat-shrinkable-end-cap",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 1440,
+      "route": "/products/busbar-insulation-tape",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/products",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/contact",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/request-quote",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/company",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/company/manufacturing",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/company/quality",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/company/team",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/company/jointer-training",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/technology/heat-shrink",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/resources",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/resources/ordering-information",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/resources/downloads",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/privacy",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/products/heat-shrinkable-termination-kit",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/products/heat-shrinkable-straight-joint",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/products/polymer-insulator",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/products/anti-tracking-cable-breakout",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/products/lv-cable-breakout",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/products/busbar-insulation-tubing",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/products/creepage-extension-shed",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/products/right-angle-boot",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/products/straight-boot",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/products/heat-shrinkable-end-cap",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    },
+    {
+      "width": 390,
+      "route": "/products/busbar-insulation-tape",
+      "status": 200,
+      "overflow": false,
+      "broken": []
+    }
+  ],
+  "formChecks": [
+    "required fields",
+    "product preselection",
+    "unconfigured backend error",
+    "mocked success"
+  ],
+  "originRegression": "Visitor-facing host accepted; different origin blocked (unit test)."
+}
